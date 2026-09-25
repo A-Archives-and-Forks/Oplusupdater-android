@@ -21,3 +21,4 @@ go install golang.org/x/mobile/cmd/gomobile@latest
 ## Credits
 - [miuix](https://github.com/miuix-kotlin-multiplatform/miuix)
 - [go-mobile](https://github.com/golang/mobile)
+- https://downval.csy.tcdnos.com/aclos/release/2.13.1.393/VALORANT_CN_installer_v2.13.1.393.exe?mkey=lego_ztc&f=00&sche_type=7&cip=123.8.116.191&proto=https&tx_domain=down.val.qq.com&tx_path=%2Faclos%2F&tx_id=6c9382a8c8
